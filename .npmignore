@@ -1,0 +1,9 @@
+src
+node_modules
+package-lock.json
+vitest.config.ts
+tsconfig.ts
+tsup.config.ts
+.vscode
+eslint.config.mjs
+.gitignore
