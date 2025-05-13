@@ -12,6 +12,14 @@
       "require": "./dist/index.cjs"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VNandhaKumar19/feature-flags-toolkit"
+  },
+  "bugs": {
+    "url": "https://github.com/VNandhaKumar19/feature-flags-toolkit/issues"
+  },
+  "homepage": "https://github.com/VNandhaKumar19/feature-flags-toolkit#readme",
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
