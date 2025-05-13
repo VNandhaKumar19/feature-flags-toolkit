@@ -1,4 +1,4 @@
-# Unifeatures - Feature Flags Toolkit
+# Feature Flags Toolkit
 
 A lightweight, type-safe, framework-agnostic feature flag library for managing feature toggles in both **backend** and **frontend** environments. Supports static **file-based loading or remote fetch/save** via user-defined callbacks — **no internal state or storage dependencies**.
 
@@ -19,4 +19,4 @@ A lightweight, type-safe, framework-agnostic feature flag library for managing f
 ## 📦 Installation
 
 ```bash
-npm install unifeatures
+npm install feature-flag-toolkit
