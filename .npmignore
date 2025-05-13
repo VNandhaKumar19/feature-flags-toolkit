@@ -7,3 +7,4 @@ tsup.config.ts
 .vscode
 eslint.config.mjs
 .gitignore
+coverage
