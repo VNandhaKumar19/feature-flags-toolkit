@@ -1,6 +1,6 @@
 {
   "name": "feature-flags-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal feature flag manager for frontend and backend apps",
   "type": "module",
   "main": "dist/index.cjs",
