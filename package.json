@@ -1,6 +1,6 @@
 {
   "name": "feature-flags-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal feature flag manager for frontend and backend apps",
   "type": "module",
   "main": "dist/index.cjs",
@@ -12,6 +12,14 @@
       "require": "./dist/index.cjs"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VNandhaKumar19/feature-flags-toolkit"
+  },
+  "bugs": {
+    "url": "https://github.com/VNandhaKumar19/feature-flags-toolkit/issues"
+  },
+  "homepage": "https://github.com/VNandhaKumar19/feature-flags-toolkit#readme",
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
